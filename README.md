@@ -1,0 +1,1 @@
+this is an odin project for learning html,css and javascript. we are going to build a recipe website.
